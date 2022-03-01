@@ -1,0 +1,22 @@
+# Einleitung und Produktionsschema
+
+In der PA 5 Bereich Antibiotika werden zum Verpacken steriler Medikamente aseptische Methoden benutzt.
+Unter aseptischen Methoden versteht man eine Arbeitstechnik,
+die in der Regel aus mehreren aufeinander abgestimmten Verfahrensschritten besteht, von denen
+jede einzelne (unter Nutzung der optimalen Möglichkeiten)
+(zur Verminderun der Keimzahl) zu dem angestrebten Endziel, einem sterilen Produkt, seinen Beitrag leistet.
+Unter aseptischer Herstellung ist die Herstellung einer
+Arznei zu verstehen, bei der mindestens ein Bestandteil
+keines der üblichen Sterilisationsverfahren verträgt.
+In der PA 5 / Antibiotika werden antibiotische Arzneimittel unter aseptischen sowie unter sterilen Bedingungen
+abgefüllt und verpackt. Diese Arzneimittel sind äußerst
+temperaturempfindlich und bedürfen der aseptischen Verpackung.
+Die Arzneimittelsubstanz wird im Mahlraum durch Leutoxieren sterilisiert.
+Die gesäuberten Injektionsflaschen kommen aus dem Spülraum und werden im Sterilisierungstunnel
+sterilisiert. Gummistopfen werden im
+Gummistopfenraum mit Famalinlösung gewaschen. Die
+Hülsen werden in der Ölvorbereitung im Heißluftsterilisator sterilisiert. Substanz, Injektionsflaschen, Stopfen
+und Hülsen gelangen dann über verschiedene Schleusen in die Abfülleinheit. Dort erfolgt die Verpackung unter
+aseptischen Bedingungen, so daß zum Schluß ein steriles
+Produkt die Abteilung verläßt. (siehe Prduktionsschema)
+
