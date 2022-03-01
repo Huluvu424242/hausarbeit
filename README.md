@@ -1,7 +1,6 @@
-# Open Books
+# Hausarbeit
 
-* [Zone 7](https://huluvu424242.github.io/open-books/zone7/index.html)
-* [Neuland](https://huluvu424242.github.io/open-books/neuland/index.html)
+* [Zur Hausarbeit](https://huluvu424242.github.io/hausarbeit/hausarbeit/index.html)
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]

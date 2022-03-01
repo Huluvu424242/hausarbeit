@@ -3,10 +3,10 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.huluvu424242</groupId>
-    <artifactId>open-books</artifactId>
+    <artifactId>hausarbeit</artifactId>
     <version>Ausgabe 1.0.0-SNAPSHOT</version>
-    <name>Open Books</name>
-    <description>Huluvus Open Books</description>
+    <name>Hausarbeit</name>
+    <description>Hausarbeit zur Ausbildung als Facharbeiter für chemische Produktion Spezialisierung Wirkstoffe</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

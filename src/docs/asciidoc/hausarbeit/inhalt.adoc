@@ -1,0 +1,34 @@
+= Hausarbeit
+Thomas Schubert (geb. Michel)<huluvu424242@gmail.com>
+
+:author: Thomas Michel Klasse: FcP 85/1
+:email: huluvu424242@gmail.com
+
+*Einsatzbereich:* PA 5 Bereich Antibiotika
+
+*Thema der Hausarbeit:*
+
+Sterilisation- und Desinfektionsmaßnahmen, die zur Erhaltung der Asepsis und Einhaltung der RHR Richtlinien im Abschnitt
+Antibiotika notwendig sind.
+
+*Schwerpunkte:*
+
+* Sterilisation  / mit Erläuterung, Ablauf und Tabellen
+* Desinfektion / mit Erläuterung, Ablauf und Tabellen
+* RHR - Richtlinien für die Produktion von Arzneimitteln
+
+*Mentorin:* Frau Müller
+
+
+
+
+include::hausarbeit/01_Einleitung.adoc[]
+
+include::hausarbeit/02_Sterilisation.adoc[]
+
+include::hausarbeit/03_Desinfektion.adoc[]
+
+include::ausarbeit/04_RHR.adoc[]
+
+include::hausarbeit/05_Spezielles.adoc[]
+
