@@ -1,8 +1,13 @@
 = Hausarbeit
-Thomas Schubert (geb. Michel)<huluvu424242@gmail.com>
 
-:author: Thomas Michel Klasse: FcP 85/1
-:email: huluvu424242@gmail.com
+Thomas Schubert (geb. Michel)<huluvu424242@gmail.com>
+v1.0, {docdate}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+
+:Author:    Thomas Michel Klasse: FcP 85/1
+:Email:     <huluvu424242@gmail.com>
+:toc-title: Hausarbeit
 
 *Einsatzbereich:* PA 5 Bereich Antibiotika
 
