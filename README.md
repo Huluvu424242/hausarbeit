@@ -1,6 +1,6 @@
 # Hausarbeit
 
-* [Zur Hausarbeit](https://huluvu424242.github.io/hausarbeit/hausarbeit/inhalt.html)
+* [Zur Hausarbeit](https://huluvu424242.github.io/hausarbeit/inhalt.html)
 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
