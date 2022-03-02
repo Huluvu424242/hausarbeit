@@ -1,4 +1,4 @@
-# Sterilisation
+==  Sterilisation
 
 > Sterilisation heißt Abtöten oder Entfernen der an Stoffen,
 > Zubereitungen und an Gegenständen vorkommenden
@@ -25,10 +25,17 @@ die sowohl durch Keimabtötung als auch Keimabtrennung den
 betroffenden Stoff sterilisieren, so dass hier ein fließender Übergang von einer Sterilisationsmethode
 zur anderen erkennbar ist.
 
+=== Chemische Sterilisation
+
+Die chemische Sterilisation beruht sowohl auf dem Einsatz
+von Gasen, als auch von Flüssigkeiten. Sie führt zu
+einer Denaturalisierung der Eiwißstruktur der Mikroorganismen.
+Das heißt, in den meisten Fällen lagert sich ein Radikal durch vorheriges Lösen einer Doppelbindung
+an das Eiweißmolekül an. Es entsteht somit ein
+völlig neues Eiweiß mit neuer Struktur und neuen Eigenschaften.
 
 
 
 
-## Chemische Sterilisation
-## Physikalische Sterilisation
-## Strahlensterilisation
+=== Physikalische Sterilisation
+=== Strahlensterilisation
