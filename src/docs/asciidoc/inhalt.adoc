@@ -6,7 +6,7 @@ ifndef::imagesdir[:imagesdir: images]
 
 :Author:    Thomas Michel Klasse: FcP 85/1
 :Email:     <huluvu424242@gmail.com>
-:toc-title: Hausarbeit
+:toc-title: Übersicht
 :sectnums:
 
 *Einsatzbereich:* PA 5 Bereich Antibiotika
