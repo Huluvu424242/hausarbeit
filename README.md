@@ -3,7 +3,7 @@
 * [Zur Hausarbeit](https://huluvu424242.github.io/hausarbeit/hausarbeit/inhalt.html)
 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
