@@ -25,7 +25,7 @@ Antibiotika notwendig sind.
 *Mentorin:* Frau Müller
 
 
-include::01_Einleitung.adoc[]
+include::./01_Einleitung.adoc[]
 
 include::02_Sterilisation.adoc[]
 
