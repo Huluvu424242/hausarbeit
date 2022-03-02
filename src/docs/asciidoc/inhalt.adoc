@@ -27,11 +27,11 @@ Antibiotika notwendig sind.
 
 include::hausarbeit/01_Einleitung.adoc[]
 
-include::02_Sterilisation.adoc[]
+include::hausarbeit/02_Sterilisation.adoc[]
 
-include::03_Desinfektion.adoc[]
+include::hausarbeit/03_Desinfektion.adoc[]
 
-include::04_RHR.adoc[]
+include::hausarbeit/04_RHR.adoc[]
 
-include::05_Spezielles.adoc[]
+include::hausarbeit/05_Spezielles.adoc[]
 
