@@ -1,0 +1,34 @@
+# Sterilisation
+
+> Sterilisation heißt Abtöten oder Entfernen der an Stoffen,
+> Zubereitungen und an Gegenständen vorkommenden
+> lebensgefährlichen Formen von Mikrooorganismen. Als
+> steril dürfen Stoffe, Zubereitungen und Gegenstände
+> nur dann bezeichnet werden, wenn  sie frei von lebensfähigen Formen
+> von Mikroorganismen, die unter den Züchtungsbedingungen einer Prüfung für steril nachgewiesen
+> werden können.
+>
+> -- Lehrbuch der pharmazeutischen Technologie; R. Voigt, Verlag Volk und Gesundheit Berlin 1979
+
+Arzneimittel, die nur durch  Keimabtrennung (Sterilfiltration) "sterilisiert" wurden, dürfen nicht als
+pass:[<u>steril</u>] sondern nur als pass:[<u>aseptisch</u>] hergestellt, bezeichnet werden. Bei der
+Sterilisation werden drei Methoden unterschieden:
+
+. die chemische Sterilisation
+. die physikalische Sterilisation
+. die Strahlensterilisation
+
+Weiterhin unterscheidet man noch, Sterilisation durch Keimabtötung und Sterilisation durch Keimabtrennung. Wobei
+man hier jedoch keine scharfen Grenzen ziehen kann,
+da es auch viele Sterilisationsmethoden gibt,
+die sowohl durch Keimabtötung als auch Keimabtrennung den
+betroffenden Stoff sterilisieren, so dass hier ein fließender Übergang von einer Sterilisationsmethode
+zur anderen erkennbar ist.
+
+
+
+
+
+## Chemische Sterilisation
+## Physikalische Sterilisation
+## Strahlensterilisation
