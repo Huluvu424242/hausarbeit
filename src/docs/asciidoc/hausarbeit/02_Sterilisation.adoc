@@ -165,3 +165,15 @@ auf Sterilistät geprüft werden.
 
 === Strahlensterilisation
 
+Zur Strahlensterilisation können UV, ? und ?strahlen
+verwendet werden. Wobei es sich bei ? Strahlen und UV Strahlen
+um Teilchenstrahlen und bei ? Strahlen und UV-Strahlen
+um elektromagnetische Strahlen handelt. In der
+Antibiotikaabteilung werden nur die UV-Strahlen zur Sterilisiation
+benutzt. Sie dienen zur Keimminderung der Raumluft.
+Ihre Rolle ist von untergeordneter Bedeutung.
+Eine alleinige Sterilisation durch UV-Bestrahlung kann
+nicht zu sterilen Bedingungen führen. Der größte keimtötende
+Effekt tritt auf, wenn UV-Strahlen von ca. 254-281 nm
+eingesetzt werden. Die UV-Strahlung besitzt eine sehr
+geringe Tiefenwirkung.
