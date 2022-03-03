@@ -105,9 +105,63 @@ sind die sterilisierten Flächen nie lange feucht und gleichzeitig
 werden auch noch Keime der Lauft abgetötet.
 Deshalb bildet Alkohol ein vorzügliches Sterilisationsmittel.
 
-
-
-
-
 === Physikalische Sterilisation
+
+Die physikalische Sterilisation beruht vorwiegend auf der
+Einwirkung von Hitze auf die Mikroorganismen. Sie
+kann deshalb nicht bei temperaturempfindlichen Substanzen eingesetzt werden.
+In der Antibiotika Abteilung wird
+zum einen die Heißluftsterilisation und zum anderen die Dampfsterilisation eingesetzt.
+
+Bei der Heißluftsterilisation können Materialien wie
+Glas, Porzellan und Metallgegenstände sterilisiert werden.
+Im Sterilisierungstunnel werden gerinigte Glasflaschen
+aus dem Spülraum sterilisiert und in den aseptischen
+Abfüllbereich eingeschlust. Nach der Aufgabe der Flaschen
+passieren diese die Einlaufzone des Tunnels. Dort werden
+sie vom Förderband weitertranportiert zur Trockenzone.
+Diese Zone dient zum Trockenen der Injektionsflaschen.
+Infrarotquarzglasstrahler dienen als Heizquelle. Danach
+passieren die Flaschen die Sterilisationszone. Diese
+durchlaufen sie 20 Minuten bei einer Temperatur von 280°C.
+Auch hier werden als Heizquelle Infrarotqurzglasstrahler
+eingesetzt. Diese Strahler besitzen vergoldete Reflektoren.
+Durch diese wird die Wärmestrahlung gerichtet, um eine
+optimale Ausbeute zu erzielen. Es folgt dann die Kühlzone
+umd die Auslaufzone. Durch Vorfilter und eine Hosch-Filter
+(Hochleistungsschwebestofffilter) - Dusche wird nach
+dem Laminar-flow-Prinzip ein senkrecht nach unten gerichteter
+Frischluftstrom geringer Geschwindigkeit erzeugt. Dieser
+bewegt sich durch das Transportband hindurch und wird
+unterhalb von einem Abluftkanal nach außen abgeführt.
+Somit erreicht man eine partikelarme Atmosphäre im Berich
+des gerinigten und sterilisierten Gutes. Die steril-filtrierte Luft
+aus der Kühlzone wird weiterhin durch die
+Gebläse zur Luftschleuse in die Einlaufzone geführt.
+Eine weitere Form der Sterilisation ist die Dampfsterilisation.
+Bei der Dampsterilisation kommt gespannter,
+gesättigter und im allgemeinen luftfreier Wasserdampf
+zur Anwendung. Das heißt ein Dampf von etwa 120°C bei
+einem Druck von 0,2 MPa, der mit Wasser unmittelbar
+in Berührung steht. Diese Sterilisation wird in
+Autoklaven durchgeführt. Beim Anheizen bleibt das Dampfventil
+geöffnet, so kann die gesamte Luft entweichen
+und nach dem Schließen liegt dann ein luftfreier Dampf
+vor. Die Entfernung der Luft ist notwendig, da der
+Dampf nicht nur als Wärmeüberträger dient, sondern
+sein Kondensat auch in die Poren des Stoffes eindringt.
+Dampf und Kondensat üben hierbei eine direkte keimtötende
+Wirkung aus, die bei Luftanwesenheit gemindert
+werden würde. Außerdem ist die Luft ein schlechter Wärmeleiter
+und es könnten sich "Kälteinseln" bilden.
+Durch die Wirkung des Wasserdampfes wird zunächst
+die Zellwand der Mikroorganismen aufgelockert, danach
+kann dann die Hitze direkt auf die Kernsubstanz einwirken
+und sie zuerstören. Bei der Dampfsterilisation
+werden bereits nach 8 Minuten sogar Sporen sicher
+zerstört. Im Sterilisator befinden sich Sporenerdepäckchen
+an verschiedenen Meßorten, die nach der Autoklavierung
+auf Sterilistät geprüft werden.
+
 === Strahlensterilisation
+
