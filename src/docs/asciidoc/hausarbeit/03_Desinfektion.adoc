@@ -1,0 +1,49 @@
+== Desinfektion
+
+> Desinfizieren heißt totes oder lebendes Material in den
+> Zustand versetzen, daß es nicht mehr infizieren
+> kann.
+>
+> Die Desinfektion ist, im Gegenteil zur Sterilisation,
+> eine Maßnahme zur Verhinderung der Infektion durch
+> fotogene Keime. Die Desinfektion beinhaltet nicht die
+> Zerstörung von Sporen. Zur Desinfaktion kommen physikalische
+> Verfahren, chemische Mittel oder eine Kombination aus beiden
+> zum Einsatz. Desinfektionsmittel sind nicht universell
+> einsetzbar. Sie wirken jeweils nur auf eine Auswahl von
+> Mikroorganismen.
+>
+> -- Lehrbuch der physikalischen Technologie, Seite 592
+
+Pathogene Keime sind Krankheitserreger,
+das bedeutet durch die Desinfektion werden nur die
+Krankheitserreger abgetötet. Aus Gründen der Wirtschaftlichkeit
+und der Materialschonung werden die Konzentrationen
+und Anwendungszeiten so gewählt, daß pathogene Organismen
+sicher augeschaltet werden, besonders resistente Erdsporen
+jedoch unter Umständen überleben. Nach der Behandlung
+mit Desinfektionsmitteln ist die Zahl der Keime zwar
+stark verringert, jedoch nicht alle vernichtet. Die
+notwendige Einwirkzeit des Desinfektionsmittels hängt
+unter anderem von der Auswahl der abzutöenden Keime ab.
+Der Wirkungsmechanismus der Substanzen ist in den meisten
+Fällen bekannt. In hohen Konzentrationen wirken viele
+Stoffe destrukturierend auf Mikroben, daß vor allem
+Zelleiwiße ihre Struktur verändern.
+
+Ein Beispiel für die Desinfiktion mittels Gase ist lauf
+Quelle (Mikrobilogisches Praktikum; Helga Schröder Verlag Volk und Gesundheit Berlin 1980)
+die Formalinisierung.
+Diese wurde bereits im Abschnitt 2.1. unter chemischer
+Sterilisation erläutert. Die Desinfektion mittels
+Flüssigkeiten wird vorwiegend zur Händedesinfektion
+und zur Desinfektion der Abreitsflächen, Fußböden und
+bestimmter Materialien benutzt. Zur Händedesinfektion
+bediente man sich früher der Gruppe der Alkohole, deren
+Einwirkzeit zwischen 2 - 5 Minuten schwankt. Verwendet
+wurde Ethanol 70%. Um der Entfettung der Haut vorzubeugen
+wurde es mit 1% Glyzerin versetzt. Unter Berücksichtigung
+des Arbeits- und Brandschutzes wird diese Methode
+heute nicht mehr eingesetzt, da es durch die
+elektrostatische Aufladung der Kombianzüge zu Unfällen
+kommen könnte. Jetzt wird Wofa-sept als Händedesinfektionsmittel benutzt.
