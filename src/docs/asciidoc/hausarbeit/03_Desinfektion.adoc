@@ -78,7 +78,7 @@ kommen könnte. Jetzt wird Wofa-sept als Händedesinfektionsmittel benutzt.
 
 |Wofa-sept
 |3% - 5%
-.6+| wirksam gegen regative Keime, wenig wirksam gegen Viren, wenig gegen Sporen
+.5+| wirksam gegen regative Keime, wenig wirksam gegen Viren, wenig gegen Sporen
 
 |Fesia-sept
 |3% - 4%
@@ -93,3 +93,48 @@ kommen könnte. Jetzt wird Wofa-sept als Händedesinfektionsmittel benutzt.
 |0,05% - 0,1%
 
 |===
+
+.Desinfektionsmittel: Quartäre Ammoniumverbindungen
+|===
+|Name |Konzentration|Wirkung
+
+|Fesia-men
+|1% - 2%
+.9+| oberflächenaktive Verbindungen; wasserlöslich, Sie reichern sich durch die Struktureigentümlichkeit an Zellmembranen an und behindern deren Funktion worauf ihre desinfizierende Wirkung beruht
+
+|C 4
+|2%
+
+|Septonex
+|0,002% - 0,02%
+
+|Zaphirol
+|0,005% - 0,02%
+
+|Tetraseptan
+|0,005% - 0,02%
+
+|Ajatin
+|0,002% - 0.02%
+
+|Cetrimid
+|0,005% - 0,01%
+
+|Bradosol
+|0,005% - 0,01%
+
+|Ceepryn
+|0,001% - 0,01%
+
+|===
+
+.Desinfektionsmittel: Aldehyde
+|===
+|Name |Konzentration|Wirkung
+
+|Fesia-form
+|4% - 5%
+|Ein breites Wirkungsspektrum inaktiviert rasch vegetative Keime, bei Sporen und Viren längere Einwirkzeit. 
+
+|===
+
