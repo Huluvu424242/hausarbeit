@@ -42,19 +42,19 @@ Der Reinheitsgrad von Personen und Materialien ist durch das Passieren von Schle
 Dabei sind für Produktionsräume mit Reinheitsstufen 1b - 3 voneinander getrennte Personen- und Materialschleusen erforderlich. Bei den Personenschleusen unterscheiden wir je nach Reinheitsstufen Doppelschleusen und Einfachschleusen. 
 
 Doppelschleusen werden vor Produktionsräumen der Reinheitsstufen 1b und 2 benutzt. Sie bestehen aus einer Vorschleuse und einer Sterilschleuse. In der Vorschleuse wird die Wegekleidung abgelegt und in der Sterilschleuse,
-die Sterilkleidung angelegt. In der jewiligen Schleuse müssen Aufbewahrungsmöglichkeiten für die Bekleidungen sein. Außerdem muß die Möglichkeit der gründlichen Reinigung und Desinfektion der Hände und Unterarme bestehen. Vor Produktionsräumen der Reinheitsstufe 3 sind Einfachschleusen vorhanden. Hier wird die Wegekleidung abgelegt und die Hygienekleidung angelegt.
+die Sterilkleidung angelegt. In der jeweiligen Schleuse müssen Aufbewahrungsmöglichkeiten für die Bekleidungen sein. Außerdem muß die Möglichkeit der gründlichen Reinigung und Desinfektion der Hände und Unterarme bestehen. Vor Produktionsräumen der Reinheitsstufe 3 sind Einfachschleusen vorhanden. Hier wird die Wegekleidung abgelegt und die Hygienekleidung angelegt.
 
 Materialien, die in die Produktionsräume einzuschleusen sind, werden durch Materialschleusen befördert. Hier wird durch geeignete Methoden, die hygienische Reinigung durchgeführt, zum Beispiel durch Entfernung des Verpackungsmaterials, der Desinfektion der Verpackung, durch Besprühen, Begasung oder durch UV-Strahler. 
 
 Weitere Anforderungen, die an Produktionsräume für Antibiotika gestellt werden:
 
 - Die Räume müssen in sauberem und ordentlichen Zustand gehalten werden. Sie müssen in ihrer Größe eine entsprechende Reinigung und Wartung der Maschinen zulassen.
-- Das Aufbewahren von persönlichen Gegenständen soweie das Halten von Zimmerpflanzen und Tieren ist nicht zulässig.
-- Wände, Decken und Fußböden sowie Arbeitsflächen müssen eine glatte Oberfläche auweisen und für Desinfektionsmittel geeignet sein, je nach Reinheitsstufen gelten noch spezielle Hinweise. 
-- Ablfußwasser müssen ungehindert abfließen können und eine Desinfektion möglich sein
+- Das Aufbewahren von persönlichen Gegenständen sowie das Halten von Zimmerpflanzen und Tieren ist nicht zulässig.
+- Wände, Decken und Fußböden sowie Arbeitsflächen müssen eine glatte Oberfläche aufweisen und für Desinfektionsmittel geeignet sein, je nach Reinheitsstufen gelten noch spezielle Hinweise. 
+- Abflußwasser müssen ungehindert abfließen können und eine Desinfektion möglich sein
 - je nach Reinheitsstufen müssen die Türen und Fenster dicht verschließbar sein und während des Produktionsprozesses geschlossen gehalten werden.
-- Belüftungs- und Klimaanlagen müssen eine gute Luftzirkulation aufwweisen und vermeiden das Verunreinigungen der Produktionsräume auftreten
-- Räume für mit Stauentwicklung verbundenen Arbeiten müssen eine wirksame Absaugvorrichtung haben
+- Belüftungs- und Klimaanlagen müssen eine gute Luftzirkulation aufweisen und vermeiden das Verunreinigungen der Produktionsräume auftreten
+- Räume für mit Staubentwicklung verbundenen Arbeiten müssen eine wirksame Absaugvorrichtung haben
 - je nach Reinheitsstufen ist auf entsprechende Temperaturen und Einhaltung der relativen Luftfeutigkeit zu achten
 - die zum Waschen und Desinfizieren der Hände benötigten Wasserhähne müssen in den Produktionsräumen mit Arm- und Fußhebel bedienbar sein.
 - Toiletten dürfen keinen direkten Zugang zu den Produktionsräumen haben
