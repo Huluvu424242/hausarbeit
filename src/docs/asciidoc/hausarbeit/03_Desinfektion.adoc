@@ -47,3 +47,49 @@ des Arbeits- und Brandschutzes wird diese Methode
 heute nicht mehr eingesetzt, da es durch die
 elektrostatische Aufladung der Kombianzüge zu Unfällen
 kommen könnte. Jetzt wird Wofa-sept als Händedesinfektionsmittel benutzt.
+
+.Desinfektionsmittel: Alkohole
+|===
+|Name |Konzentration|Wirkung
+
+|Äthanol
+|70% - 80%
+.6+|Wirkung beruht auf Wasserentzug und Gerinnung eines feinverteilten gelösten Stoffes (Proteinkoagulation); besitzen ein breites Wirkungsspektrum
+
+|Isopropanol
+|60% - 70%
+
+|n-Propanol
+|40% - 60% 
+
+|Benzylalkohol
+|1% - 2%
+
+|Chlorbenzylalkohol
+|0,1% - 0,3%
+
+|Dichlorbenzylalkohol
+|0,05% - 0,1%
+|===
+
+.Desinfektionsmittel: Phenol-Kresol-Derivate
+|===
+|Name |Konzentration|Wirkung
+
+|Wofa-sept
+|3% - 5%
+.6+| wirksam gegen regative Keime, wenig wirksam gegen Viren, wenig gegen Sporen
+
+|Fesia-sept
+|3% - 4%
+
+|Fesia-per
+|3%
+
+|Fesia-pin
+|3% - 5%
+
+|Chlorkresol
+|0,05% - 0,1%
+
+|===
