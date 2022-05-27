@@ -81,6 +81,20 @@ Ferner sind folgende Richtlinien für beschäftigte Personen in der Antibiotikah
 - Grundsätzlich ist die Arbeitskleidung von der Straßenkleidung getrennt aufzubewahren.
 - Essen, Trinken und Rauchen kann in den Produktionsräumen nicht gestattet werden. 
 
+=== Richtlinien für betriebliche Kontrollen durch verschiedene Verfahren
+
+Kontrollen werden nach betrieblich festgelegten Plänen durchgefürt. Die Ergebnisse der Kontrollen müssen dokumentiert werden und so lange aufbewahrt werden, bis die Verwendbarkeitsdauer der kontrollierten Stoffe abgelaufen ist. 
+
+Es werden folgende Kontrollen durchgeführt:
+
+==== Kontrolle zur Prüfung der Produktionsbedingungen
+
+In diesen Kontrollen werden bei den einzelnen Herstllungsschritten in geeigneter Weise Proben entnommen. Diese werden in Abhängigkeit von der Art des Produkts auf folgendes geprüft:
+
+- Prüfung auf mikrobiologische Reinheit
+- Prüfung auf Sterilität
+- Prüfung auf pyrogene Verunreinigungen und Prüfung auf Abwesenheit von Salmonellen-Arten in Rohstoffen rierischer Herkunft
+
 
 
 
