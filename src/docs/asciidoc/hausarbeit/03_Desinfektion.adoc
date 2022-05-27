@@ -7,7 +7,7 @@
 > Die Desinfektion ist, im Gegenteil zur Sterilisation,
 > eine Maßnahme zur Verhinderung der Infektion durch
 > fotogene Keime. Die Desinfektion beinhaltet nicht die
-> Zerstörung von Sporen. Zur Desinfaktion kommen physikalische
+> Zerstörung von Sporen. Zur Desinfektion kommen physikalische
 > Verfahren, chemische Mittel oder eine Kombination aus beiden
 > zum Einsatz. Desinfektionsmittel sind nicht universell
 > einsetzbar. Sie wirken jeweils nur auf eine Auswahl von
