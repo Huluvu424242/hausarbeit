@@ -25,6 +25,18 @@ und es dürfen keine Durchgangsräume sein. Die Ausgangsstoffe
 müssen nach den jeweils gültigen TGL angegebenen Aufbewahrungsbedingungen gelagert werden. Dabei muß die Raumtemperatur und Luftfreuchtigkeit der Lagerräume täglich 
 kontrolliert und registriert werden. Die Stabilität der Ausgangsstoffe darf durch die Lagerung nicht beeinträchtigt werden. 
 
+=== Richtlinien hinsichtlich der Einteilung nach Reinheitsstufen
+
+Hinsichtlich des erfoderlichen Reinheitsgrades der Produktionsräume werden die Reinheitsstufen 1 bis 4 unterschieden. 
+Die Reinheitsstufen der Räume werden durch unterschiedliche Farbgebung deutlich sichtbar gekennzeichnet:
+
+"Reinheitsstufe 1a" und "Reinheitsstufe 1b":: rot gekennzeichnet
+"Reinheitsstufe 2":: blau gekennzeichnet
+"Reinheitsstufe 3":: grün gekennzeichnet
+"Reinheitsstufe 4":: gelb gekennzeichnet
+
+Diese Sicherheitsfarben erfolgen nach TGL - Normen. 
+
 
 
 
