@@ -89,11 +89,11 @@ Es werden folgende Kontrollen durchgeführt:
 
 ==== Kontrolle zur Prüfung der Produktionsbedingungen
 
-In diesen Kontrollen werden bei den einzelnen Herstllungsschritten in geeigneter Weise Proben entnommen. Diese werden in Abhängigkeit von der Art des Produkts auf folgendes geprüft:
+In diesen Kontrollen werden bei den einzelnen Herstellungsschritten in geeigneter Weise Proben entnommen. Diese werden in Abhängigkeit von der Art des Produkts auf folgendes geprüft:
 
 - Prüfung auf mikrobiologische Reinheit
 - Prüfung auf Sterilität
-- Prüfung auf pyrogene Verunreinigungen und Prüfung auf Abwesenheit von Salmonellen-Arten in Rohstoffen rierischer Herkunft
+- Prüfung auf pyrogene Verunreinigungen und Prüfung auf Abwesenheit von Salmonellen-Arten in Rohstoffen tierischer Herkunft
 
 
 
