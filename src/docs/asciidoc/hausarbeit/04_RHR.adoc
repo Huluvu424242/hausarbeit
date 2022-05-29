@@ -96,6 +96,23 @@ In diesen Kontrollen werden bei den einzelnen Herstellungsschritten in geeignete
 - Prüfung auf pyrogene Verunreinigungen und Prüfung auf Abwesenheit von Salmonellen-Arten in Rohstoffen tierischer Herkunft
 
 
+==== Kontrolle der Reinigungs- und Desinfektionsmaßnahmen
+
+Hierbei werden von Maschinen, Geräten, Arbeitsflächen und manchmal auch Fußböden Abklatch-Proben für den Keimnachweis entnommen. 
+
+==== Kontrolle für die in der Produktion angewendeten Sterilisationsverfahren
+
+Dabei sollen nicht nur die Sterilisationsapparaturen, sondern auch die Geräte zur bakterienfreien Filtration kontrolliert werden.
+
+==== Kontrolle des Keimgehalts der Luft
+
+==== Laminar- Flow- und Sterilbelüftungseinheiten sind auf Funktionstüchtigkeit zu prüfen
+
+==== Kontrolle der Händedesinfektion
+
+Hierbei werden die Hände bzw. die Fingerkuppen auf kulturmedien gedrückt. Nach brutung erfolgt die Auszählung der Mikroorganismenkolinien. 
+
+Für die Kontrollen der Einhaltung der RHR ist die TKO bzw. die Abteilung Qualitätssicherung verantwortlich.
 
 
 
