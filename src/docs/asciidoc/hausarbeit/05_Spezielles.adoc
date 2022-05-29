@@ -46,15 +46,15 @@ Der Fußboden muß fugenlos und gekehlt sein.
 ** bei Bedarf sind sterilisierte und desinfizierte Gummihandschuhe zu benutzen
 ** Essen, Trinken und Rauchen ist im Produktionsraum nicht gestattet
 
-[underline]#In den Produktonsräumen mit der Reinheiststufe 3 treffen folgende Richtlinien zu:# 
+[underline]#In den Produktionsräumen mit der Reinheiststufe 3 treffen folgende Richtlinien zu:# 
 
 . Produktionsraum:
 ** Wände, Fußböden und Arbeitsflächen müssen glatte Oberflächen aufweisen
 ** Fußböden sollen fugenlos sein und dürfen keine Unebenheiten aufweisen
-** Fenster und Türen müssen dicht verschließbar sein und während des Produktionsproezsses geschlossen gehalten werden
-** Raumtermperatur darf nicht über 26°C steigen
-** Luftfeuchtigkeit sollte 4ß0% bis 60% betragen
+** Fenster und Türen müssen dicht verschließbar sein und während des Produktionsprozesses geschlossen gehalten werden
+** Raumtemperatur darf nicht über 26°C steigen
+** Luftfeuchtigkeit sollte 40% bis 60% betragen
 . Schleusen:
-** voneinander getrennte Personenn- und Materialschleusen, in den Personenschleusen werden Wegeklediung (Kittel, Schuhe ab- und die Hygienekleidung angelegt - diese Richtlinie müßte in der PA 5 Antibiotika noch realisiert werden. 
+** voneinander getrennte Personenn- und Materialschleusen, in den Personenschleusen werden Wegekleidung (Kittel, Schuhe ab- und die Hygienekleidung angelegt - diese Richtlinie müßte in der PA 5 Antibiotika noch realisiert werden. 
 
 
