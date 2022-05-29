@@ -56,5 +56,35 @@ Der Fußboden muß fugenlos und gekehlt sein.
 ** Luftfeuchtigkeit sollte 40% bis 60% betragen
 . Schleusen:
 ** voneinander getrennte Personenn- und Materialschleusen, in den Personenschleusen werden Wegekleidung (Kittel, Schuhe ab- und die Hygienekleidung angelegt - diese Richtlinie müßte in der PA 5 Antibiotika noch realisiert werden. 
+. Häufigkeit der Desinfektions- und Reinigungsmaßnahmen:
+** Fußböden müssen täglich gereinigt und wöchentlich desinfiziert werden
+** Wände mindestens vierteljährlich reinigen und desinfizieren
+** Türen und Türgriffe wöchentlich reinigen und desinfizieren
+** Fenster vierteljährlich reinigen
+** Fensterbretter wöchentlich reinigen und desinfizieren
+** Bleuchtugnskörper und UV-Strahler halbjährlich reinigen und desinfizieren
+** Stühle und Schränke (außen) monatlich reinigen und desinfizieren
+. Personen
+** vor Arbeitsbeginn Hände waschen
+** Verwendung sterilisierter Seife und einer Nagelbürste zur Händereinigung
+** anschließend Händedesinfektion
+** Benutzen von Einmalgebrauchshandtüchern oder Trockengeräten
+** Schmuckgegenstände an Händen und Unterarmen sind unzulässig
+** als Arbeitsbekleidung ist ein Kittel zu benutzen, der zweimal wöchentlich gewechselt wird
+** saubere Arbeitsschuhe
+** Kopfschutz (z.B. OP-Mütze) der rutschfest ist und zweimal wöchentlich gewechselt wird
+** Essen, Trinken und Rauchen ist in Produktionsräumen nicht gestattet
 
+[underline]#Quellennachweis# 
 
+. Rahmen-Hygiene-Reichtlinien für die Produktion von Arzneimitteln und Gesundheitspflegemitteln (RHR), Fassung 1980, Sonderdruck aus "Zbl. Pharm." 121 (1982) Heft 1
+. R. Voigt, Lehrbuch der pharmazeutischen Technologie, Verlag "Vok und Wissen" Berlin 1979, 3. überarbeitete Auflage
+. Helga Schröder, Mikrobiologisches Praktikum, Verlag "Volk und Wissen" Berlin 1980, 3. Auflage
+. Arbeitsvorschrift "Leutoxieren von Substanzen"
+. Arzneimittelbuch der DDR, 2. Auflage
+
+[underline]#Erklärung#
+
+Hiermit erkläre ich, daß ich die Hausarbeit selbständig angefertigt und nur die im Quellennachweis angegebene Literatur verwendet habe. 
+
+Bernburg, April 1987                                      Thomas Michel
