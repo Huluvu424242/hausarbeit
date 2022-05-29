@@ -11,3 +11,11 @@ In der Abteilung PA 5 Bereich Antibiotika mit:
 und der Ölvorbereitung gelten folgende Richtlinien nach der RHR.
 
 [underline]#Reinheitsstufe 1b für Abfüllraum und Mahlraum# 
+
+1. Produktionsraum:
+sterilbeläftete Räume, Fenster und Türen müssen dicht verschließbar sein und währed des Produktonsprozesses geschlossen gehalten werden. Wände, Decken, Fußböden und Arbeitsflächen müssen glatte Oberflächen aufweisen zwecks staubindender Reinigung und Desinfektion.
+Die Raumtemperatur darf 26°C nicht übersteigen. 
+Die Luftfeuchtigkeit sollte 40% bis 60% betragen. 
+Ein Überdruck von 15 Pa muß vorhanden sein.
+Der Fußboden muß fugenlos und gekehlt sein.
+
