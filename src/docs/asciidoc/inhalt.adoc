@@ -1,7 +1,7 @@
 = Hausarbeit vom April 1987
 
-Thomas Schubert (geb. Michel)<huluvu424242@gmail.com>
-v1.0, {docdate}
+Thomas Schubert (geb. Michel) <huluvu424242@gmail.com>  FcP 85/1
+
 ifndef::imagesdir[:imagesdir: images]
 
 :Author:    Thomas Michel Klasse: FcP 85/1
