@@ -13,7 +13,7 @@ und der Ölvorbereitung gelten folgende Richtlinien nach der RHR.
 [underline]#Reinheitsstufe 1b für Abfüllraum und Mahlraum# 
 
 . Produktionsraum:
-sterilbeläftete Räume, Fenster und Türen müssen dicht verschließbar sein und währed des Produktonsprozesses geschlossen gehalten werden. Wände, Decken, Fußböden und Arbeitsflächen müssen glatte Oberflächen aufweisen zwecks staubindender Reinigung und Desinfektion.
+sterilbelüftete Räume, Fenster und Türen müssen dicht verschließbar sein und währed des Produktonsprozesses geschlossen gehalten werden. Wände, Decken, Fußböden und Arbeitsflächen müssen glatte Oberflächen aufweisen zwecks staubbindender Reinigung und Desinfektion.
 Die Raumtemperatur darf 26°C nicht übersteigen. 
 Die Luftfeuchtigkeit sollte 40% bis 60% betragen. 
 Ein Überdruck von 15 Pa muß vorhanden sein.
@@ -26,10 +26,10 @@ Der Fußboden muß fugenlos und gekehlt sein.
 ** Wände mindestens monatlich reinigen und desinfizieren
 ** Türen wöchentlich reinigen und desinfizieren
 ** Türgriffe täglich reinigen und desinfizieren
-** Fenster vierteljöhrlich reinigen
+** Fenster vierteljährlich reinigen
 ** Fensterbretter täglich reinigen und desinfizieren
-** Beleuchtungskörper und UV-Strahler vierteljöhrlich reinigen und desinfizieren
-** Stöhle täglich reinigen und desinfizieren
+** Beleuchtungskörper und UV-Strahler vierteljährlich reinigen und desinfizieren
+** Stühle täglich reinigen und desinfizieren
 ** Schränke (außen) wöchentlich reinigen und desinfizieren
 . Personen
 ** vor Arbeitsbeginn Hände und Unterarme waschen und anschließend desinfizieren mit Wofasept
@@ -37,13 +37,13 @@ Der Fußboden muß fugenlos und gekehlt sein.
 ** Verwendung einer Nagelbürste zur Händereinigung
 ** es müssen sterile Einmalgebrauchtshandtücher verwendet werden, die anschließend in verschließbare, täglich zu desinfizierende Behälter geworfen werden oder man verwendet ein Trockengerät
 ** Schmuckgegenstände oder Armbanduhren sind unzulässig
-** es muß eine Reinraumkleidung aus fusselarmen Geweben und ein Wegekittel zur Verfügung stehen, die Kleidung musß täglich nach jeder Schicht gewechselt werden
-** sterilisierte Arbeitsstrümpfe müssen vorhadne sein und täglich gewechselt werden
+** es muß eine Reinraumkleidung aus fusselarmen Geweben und ein Wegekittel zur Verfügung stehen, die Kleidung muß täglich nach jeder Schicht gewechselt werden
+** sterilisierte Arbeitsstrümpfe müssen vorhanden sein und täglich gewechselt werden
 ** saubere Arbeitsschuhe ebenfalls
 ** keine Nasenreinigung im aseptischen Bereich
 ** zu Boden gefallene Materialien nicht weiter verarbeiten
-** ein sterilisierter Kpf- und Mundschutz ist nötig der täglich gewechselt wird bzw. Mundschutz öfter
-** bei Bedarf sind sterilisierte und desinfizierte Gummihandschuehe zu benutzen
+** ein sterilisierter Kopf- und Mundschutz ist nötig der täglich gewechselt wird bzw. Mundschutz öfter
+** bei Bedarf sind sterilisierte und desinfizierte Gummihandschuhe zu benutzen
 ** Essen, Trinken und Rauchen ist im Produktionsraum nicht gestattet
 
 [underline]#In den Produktonsräumen mit der Reinheiststufe 3 treffen folgende Richtlinien zu:# 
