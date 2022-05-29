@@ -1,0 +1,13 @@
+== Spezielle Richtlinien für die Abteilung Antibiotika in der PA5
+
+In der Abteilung PA 5 Bereich Antibiotika mit:
+
+- der Abfüllung = Reinheitsstufe 1b
+- dem Mahlraum = Reinheitsstufe 1b
+- dem Gummistopfenraum = Reinheitsstufe 3
+- dem Spülraum = Reinheitsstufe 3
+- dem Tunnel = Reinheitsstufe 3
+
+und der Ölvorbereitung gelten folgende Richtlinien nach der RHR.
+
+[underline]#Reinheitsstufe 1b für Abfüllraum und Mahlraum# 
